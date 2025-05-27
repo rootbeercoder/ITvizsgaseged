@@ -4,3 +4,5 @@ ip a  #hálózati beállítások
 sudo apt update  #csomaglista frissítése
 sudo systemctl restart apache2  #szolgáltatás újraindítása
 chmod +x script.sh  #futtathatóvá tétel
+ipcalc 0.0.0.0  #egyszerű IP-cím kalkuláció
+ipcalc 0.0.0.0 -s 25 25  #IP-cím kalkuláció kiosztható IP-cím kalkulációval
