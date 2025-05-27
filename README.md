@@ -1,0 +1,2 @@
+# ITvizsgaseged
+IT Technikus Vizsgajegyzet
