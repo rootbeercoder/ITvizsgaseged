@@ -1,0 +1,6 @@
+Linux parancsok:**
+
+ip a  #hálózati beállítások
+sudo apt update  #csomaglista frissítése
+sudo systemctl restart apache2  #szolgáltatás újraindítása
+chmod +x script.sh  #futtathatóvá tétel
