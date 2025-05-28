@@ -4,7 +4,7 @@ Ez a nyilvános jegyzettár segít a technikumi ágazati vizsgára való felkés
 
 **A tartalmak általános tudásanyagot tartalmaznak, nem konkrét vizsgamegoldásokat!**
 
-## A segédanyagok az ITvizsgasegéd GitHub Wiki oldalán találhatjátok meg!
+## A segédanyagokat az ITvizsgasegéd GitHub Wiki oldalán találhatjátok meg!
 
 ## Hasznos linkek és eszközök
 
