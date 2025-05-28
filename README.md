@@ -30,6 +30,6 @@ A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák á
 - tanórákon
 - és vizsga előtt
 
-**Tanároknak:** Szabadon megosztható, kinyomtatható, QR-kód formájában is elérhető
+**Tanároknak:** Szabadon megosztható, kinyomtatható, QR-kód formájában is elérhető! Az oldal azért jött létre, hogy segítse a leendő technikusok sikeres felkészülését.
 
-**PDF és QR-kód verzió kérhető!**
+**PDF és QR-kód verzió is kérhető!**
