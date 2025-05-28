@@ -31,5 +31,6 @@ A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák á
 - és vizsga előtt
 
 **Tanároknak:** Szabadon megosztható, kinyomtatható, QR-kód formájában is elérhető! Az oldal azért jött létre, hogy segítse a leendő technikusok sikeres felkészülését.
+**A Tanárok segítségét is szeretnénk kérni, hogy ha van bármi észrevételük az anyagokkal nyugodtan jelezzék a repo Issues (Kérdések) részénél! Köszönjük!**
 
 **PDF és QR-kód verzió is kérhető!**
