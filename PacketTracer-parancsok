@@ -1,0 +1,44 @@
+IP-cím beállítás:
+enable
+configure terminal
+int g0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+exit
+
+***
+
+ROUTER SSH BEÁLLÍTÁS:
+configure terminal
+ho R1  #hostnév beállítás
+ip domain-name sajathalo.local  #domainnév beállítás
+
+Felhasználó létrehozása:
+username <admin> privilege 15 secret <admin123>
+
+RSA kulcs generálás:
+crypto key generate rsa
+<kulcs méret legyen 1024 vagy 2048>
+
+VTY vonalak beállítása az SSH-hoz
+line vty 0 4
+transport input ssh
+login local
+exit
+
+SSH verzió beállítás:
+ip ssh version 2
+
+Mentés:
+copy run sta
+
+***
+
+SSH ELÉRÉS PC-N:
+
+Command Prompt-on keresztül:
+ssh -l admin 192.168.1.1
+
+SSH/TELNET kliensből:
+Username: <admin>
+Hostname or IP address: <sajathalo.local/192.168.1.1>
