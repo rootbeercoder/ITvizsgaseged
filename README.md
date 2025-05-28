@@ -1,6 +1,12 @@
 # IT Technikus Vizsgasegédlet
 
-Ez a nyilvános jegyzettár segít a technikumi ágazati vizsgára való felkészülésben. A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák álljanak rendelkezésre.
+Ez a nyilvános jegyzettár segít a technikumi Informatikus vizsgákra való felkészülésben.
+Legyen szó:
+Ágazati alapvizsgáról
+Informatikai rendszer- és alkalmazás-üzemeltető technikusi vizsgáról
+Szoftverfejlesztő és -tesztelő vizsgáról
+--
+A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák álljanak rendelkezésre.
 
 **A tartalmak általános tudásanyagot tartalmaznak, nem konkrét vizsgamegoldásokat!**
 
