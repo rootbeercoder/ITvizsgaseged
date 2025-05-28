@@ -4,18 +4,6 @@ Ez a nyilvános jegyzettár segít a technikumi ágazati vizsgára való felkés
 
 **A tartalmak általános tudásanyagot tartalmaznak, nem konkrét vizsgamegoldásokat!**
 
----
-
-## Tartalomjegyzék
-
-- [Informatika és Távközlés](#informatika-es-tavkozles)
-- [Cisco Packet Tracer](#cisco-packet-tracer)
-- [Python](#python)
-- [HTML és CSS](#html-es-css)
-- [Hasznos linkek és eszközök](#hasznos-linkek-es-eszkozok)
-
----
-
 ## Informatika és Távközlés
 
 **Linux parancsok:**
