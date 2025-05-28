@@ -2,10 +2,10 @@
 
 Ez a nyilvános jegyzettár segít a technikumi Informatikus vizsgákra való felkészülésben.
 Legyen szó:
-Ágazati alapvizsgáról
-Informatikai rendszer- és alkalmazás-üzemeltető technikusi vizsgáról
-Szoftverfejlesztő és -tesztelő vizsgáról
---
+- Ágazati alapvizsgáról
+- Informatikai rendszer- és alkalmazás-üzemeltető technikusi vizsgáról
+- Szoftverfejlesztő és -tesztelő vizsgáról
+---
 A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák álljanak rendelkezésre.
 
 **A tartalmak általános tudásanyagot tartalmaznak, nem konkrét vizsgamegoldásokat!**
@@ -19,11 +19,16 @@ A cél, hogy gyorsan visszakereshető, érthető, jól rendszerezett példák á
 - [Shell parancs elemző](https://explainshell.com/)
 - [IP kalkulátor](https://www.subnet-calculator.com/)
 - [Markdown szerkesztő](https://dillinger.io/)
+- [HTML validátor](https://validator.w3.org/#validate_by_uri)
+- [CSS validátor](https://jigsaw.w3.org/css-validator/)
 
 ---
 
 **Használat:**
-- Gyakorláshoz, ismétléshez, tanórákon és vizsga előtt
+- Gyakorláshoz
+- ismétléshez
+- tanórákon
+- és vizsga előtt
 
 **Tanároknak:** Szabadon megosztható, kinyomtatható, QR-kód formájában is elérhető
 
